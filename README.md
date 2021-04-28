@@ -61,6 +61,8 @@
    <th>   <h2></h2> </th>
   <tr/>
   
+  # What is behind the scenes
+  
   <tr>
     <th><img src="images/behindTheScenes.1.png"  ></th>
   </tr>
