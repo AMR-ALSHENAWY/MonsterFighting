@@ -56,14 +56,13 @@
     <th><img src="images/score.png"  ></th>
   </tr>
 
+# What is behind the scenes
 
    <tr>  
    <th>   <h2></h2> </th>
   <tr/>
-  
-  # What is behind the scenes
-  
-  <tr>
+
+   <tr>
     <th><img src="images/behindTheScenes.1.png"  ></th>
   </tr>
   
@@ -83,7 +82,7 @@
     <th><img src="images/behindTheScenes.3.png"  ></th>
   </tr>
   
-     <tr>  
+   <tr>  
    <th>   <h2></h2> </th>
   <tr/>
   
