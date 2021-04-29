@@ -2,7 +2,7 @@
 
 # Monster Fighting Youtube video
 
-<a href="https://www.youtube.com/watch?v=u-71OcfFXTk&t=6s&ab_channel=AMRALSHENAWY">
+<a href="https://www.youtube.com/watch?v=u-71OcfFXTk&ab_channel=AMRALSHENAWY">
 <img src="images/youtube.png"  width="70">  
 </a> 
 <table style="width:100%" >
